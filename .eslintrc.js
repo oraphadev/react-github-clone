@@ -37,5 +37,6 @@ module.exports = {
     'react/sort-comp': 1,
     'react/prop-types': 0,
     'react/no-array-index-key': 0,
+    'react/jsx-no-bind': 0,
   },
 };
