@@ -101,7 +101,7 @@ export default function Profile() {
                   forks={repo.forks}
                   language={repo.language}
                   repositoryName={repo.name}
-                  stars={repo.stars}
+                  stars={repo.stargazers_count}
                   username={repo.owner.login}
                 />
               ))}
